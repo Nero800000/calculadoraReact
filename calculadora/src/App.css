@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background-color: #202020;
+  width: 17%;
+  margin: auto;
+  padding: 20px;
+  border-radius: 20px;
+  
+
+  
+  
+}
+
+
+input {
+  width: 94%;
+  height: 60px;
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 20px;
+}
+button {
+  padding: 16px;
+  width: 77px;
+  background-color: black;
+  color: white;
+  border-color: #202020;
+ 
+}
+
+.apagar {
+ background-color: black;
+ 
+
+  
+}
+.apagar2 {
+  font-size: 14px;
+  font-weight: bold;
+  width: 154px;
+}
+
+.calculadora {
+
+}
